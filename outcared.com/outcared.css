@@ -1,0 +1,91 @@
+
+body {
+  background-color: rgba(13,183,196,1); /* graceful degradation for iE */
+  background: radial-gradient(center,rgba(13,183,196,1), rgba(13,183,196,0.65)); /*future proof*/
+  background: -webkit-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));
+  background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  
+  font-family: 'Dosis', sans-serif;;
+  text-align: center;
+  margin: 0 auto;
+  /*background-image: url("outcared.jpg");
+  background-size: cover;
+  background-position: right; 
+  background-repeat: no-repeat; 
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
+}
+
+@media (max-width: 500px) {
+  .CompanyName {
+    font-size: 40px;
+  }
+  .CompanyDesc {
+      font-size: 12px;
+  }
+  .subtext {
+      font-size: 8px;
+  }
+  form {
+    display: block;
+  }
+  input {
+    margin: 0 auto;
+  }
+  input [type = "email"] {
+      max-width: 500px;
+  }
+  input [type = "submit"] {
+      max-width: 100px;
+      padding-top: 10px;
+  }
+}
+
+section {
+  margin: 100px auto;
+  max-width: 500px;
+  padding: 40px 10px 40px 10px;
+}
+
+.CompanyName {
+    font-size: 60px;
+    color: white;
+/*    font-style: bold;*/
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.CompanyDesc {
+    font-size: 24px;
+    padding-top: 0;
+    margin-top: 5;
+    text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  padding-top: 30px;
+  max-width: 500px;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+input [type= "email"] {
+  text-align: left;
+}
+
+input[type="submit"] {
+  background-color: black;/*#0db7c4;*/
+  color: white;
+  margin-left: 5px;
+  text-align: center;
+}
+
+.Subtext {
+  font-size: 12px;
+  margin-top: 5;
+  text-align: center;
+}
