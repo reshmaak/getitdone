@@ -17,10 +17,10 @@ body {
 
 div {
   background-image: url('outcared_background.jpg');
- /* -webkit-background-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; */
+  background-size: cover; 
   background-repeat: repeat-x;
   background-repeat: repeat-y;
   /*height: 320px;*/
