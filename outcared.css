@@ -22,7 +22,7 @@ div {
   -o-background-size: cover;
   background-size: cover; */
   background-repeat: repeat-x;
-  height: 320px;
+  /*height: 320px;*/
   margin: 0 auto;
 }
 
