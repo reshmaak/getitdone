@@ -94,7 +94,7 @@ input[type="submit"] {
 
 img {
   bottom:0;
-  display:float;
+  position: absolute;
   left:0;
   height: 150px;
 }
