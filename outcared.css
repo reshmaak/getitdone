@@ -21,7 +21,7 @@ div {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: repeat-x;
-  height: 400px;
+  height: 300px;
 }
 
 @media (max-width: 500px) {
