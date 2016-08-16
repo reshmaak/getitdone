@@ -9,10 +9,11 @@ body {
   text-align: center;
   margin: 0 auto;
   background-image: url("background.png");
-  /*background-size: cover;
+  background-size: 100% 100%;
   background-position: right; */
   background-repeat: repeat-x;
   background-repeat: repeat-y;
+  background-attachment: fixed;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
 }
