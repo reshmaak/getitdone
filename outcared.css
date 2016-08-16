@@ -13,7 +13,6 @@ body {
   background-position: right; 
   background-repeat: no-repeat; 
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
-  padding-bottom: 200px;
   position: relative;
 }
 
@@ -106,4 +105,5 @@ footer {
   margin: 0 auto;
   bottom: 0;
   height: 400px;
+  position: absolute;
 }
