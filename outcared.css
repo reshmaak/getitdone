@@ -1,5 +1,6 @@
 
 main {
+  padding: 0;
   background-color: rgba(13,183,196,1); /* graceful degradation for iE */
   /*
   background: radial-gradient(center,rgba(13,183,196,1), rgba(13,183,196,0.65)); future proof
