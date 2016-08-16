@@ -14,7 +14,7 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
 }
 
-#pattern {
+div {
  /* background-image: url('outcared_background.jpg');*/
  background-color: rgba(1,1,1,1);
   background-repeat: repeat-x;
