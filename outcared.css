@@ -26,6 +26,8 @@ div {
   -moz-background-repeat: repeat-y;
   -o-background-repeat: repeat-y;
   margin: 0 auto;
+  bottom: 0;
+  height: 500px;
 }
 
 @media (max-width: 500px) {
