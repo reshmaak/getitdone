@@ -14,9 +14,10 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
 }
 
-header {
+#pattern {
   background-image: url("outcared_backgound.jpg");
   background-repeat: repeat-x;
+  height: 80px;
 }
 
 @media (max-width: 500px) {
