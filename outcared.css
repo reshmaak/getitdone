@@ -21,7 +21,8 @@ div {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; */
-  background-repeat: repeat;
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
   /*height: 320px;*/
   margin: 0 auto;
 }
