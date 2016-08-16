@@ -1,9 +1,10 @@
 
 body {
   background-color: rgba(13,183,196,1); /* graceful degradation for iE */
-  background: radial-gradient(center,rgba(13,183,196,1), rgba(13,183,196,0.65)); /*future proof*/
+  /*
+  background: radial-gradient(center,rgba(13,183,196,1), rgba(13,183,196,0.65)); future proof
   background: -webkit-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));
-  background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  
+  background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  */
   font-family: 'Dosis', sans-serif;;
   text-align: center;
   margin: 0 auto;
@@ -16,10 +17,10 @@ body {
 
 div {
   background-image: url('outcared_background.jpg');
-  -webkit-background-size: cover;
+ /* -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; */
   background-repeat: repeat-x;
   height: 320px;
 }
