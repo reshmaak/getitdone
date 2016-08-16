@@ -14,6 +14,7 @@ body {
   background-repeat: no-repeat; 
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
+  position: absolute;
 }
 
 @media (max-width: 500px) {
