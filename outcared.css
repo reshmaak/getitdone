@@ -14,7 +14,7 @@ body {
   background-repeat: no-repeat; 
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
-  position: absolute;
+  position: relative;
 }
 
 @media (max-width: 500px) {
@@ -106,4 +106,5 @@ footer {
   margin: 0 auto;
   bottom: 0;
   height: 500px;
+  position: absolute;
 }
