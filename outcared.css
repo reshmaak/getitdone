@@ -14,6 +14,11 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
 }
 
+header {
+  background-image: url("outcared_backgound.jpg");
+  background-repeat: repeat-x;
+}
+
 @media (max-width: 500px) {
   .CompanyName {
     font-size: 40px;
