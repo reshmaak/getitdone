@@ -105,5 +105,5 @@ footer {
   margin: 0 auto;
   bottom: 0;
   height: 400px;
-  position: absolute;
+  position: fixed;
 }
