@@ -8,6 +8,7 @@ main {
   background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  */
   font-family: 'Dosis', sans-serif;;
   text-align: center;
+  top: 0;
   margin: 0 auto;
   /*background-image: url("outcared.jpg");
   background-size: cover;
