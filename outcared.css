@@ -15,7 +15,8 @@ body {
 }
 
 #pattern {
-  background-image: url('outcared_background.jpg');
+ /* background-image: url('outcared_background.jpg');*/
+ background-color: rgba(1,1,1,1);
   background-repeat: repeat-x;
   height: 80px;
 }
