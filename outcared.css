@@ -17,13 +17,14 @@ body {
 
 div {
   background-image: url('outcared_background.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; 
   background-repeat: repeat-x;
+  -webkit-background-repeat: repeat-x;
+  -moz-background-repeat: repeat-x;
+  -o-background-repeat: repeat-x;
   background-repeat: repeat-y;
-  height: 700px;
+  -webkit-background-repeat: repeat-y;
+  -moz-background-repeat: repeat-y;
+  -o-background-repeat: repeat-y;
   margin: 0 auto;
 }
 
