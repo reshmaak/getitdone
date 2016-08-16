@@ -94,11 +94,11 @@ input[type="submit"] {
 
 footer {
   background-image: url('outcared_background.jpg');
-  background-repeat: repeat-x;
+  /*background-repeat: repeat-x;
   -webkit-background-repeat: repeat-x;
   -moz-background-repeat: repeat-x;
   -o-background-repeat: repeat-x;
-  /*background-repeat: repeat-y;
+  background-repeat: repeat-y;
   -webkit-background-repeat: repeat-y;
   -moz-background-repeat: repeat-y;
   -o-background-repeat: repeat-y; */
