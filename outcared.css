@@ -13,7 +13,8 @@ body {
   background-attachment: fixed;*/
   width: 100%
   height: 100%;
-  margin: 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
 }
 
@@ -95,23 +96,4 @@ input[type="submit"] {
   margin-top: 5;
   margin-bottom: 5;
   text-align: center;
-}
-
-footer {
-  background-image: url('outcared_background.jpg');
-  background-repeat: repeat-x;
-  -webkit-background-repeat: repeat-x;
-  -moz-background-repeat: repeat-x;
-  -o-background-repeat: repeat-x;
-  /*background-repeat: repeat-y;
-  -webkit-background-repeat: repeat-y;
-  -moz-background-repeat: repeat-y;
-  -o-background-repeat: repeat-y; 
-  background-size: contain;
-  margin: 0 auto; */
-  bottom: 0;
-  left:0;
-  height: 175px;
-  width: 100%;
-  position: absolute;
 }
