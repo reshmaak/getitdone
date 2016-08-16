@@ -44,6 +44,7 @@ section {
   margin: 50px auto;
   max-width: 500px;
   padding: 20px 10px 20px 10px;
+  position: relative;
 }
 
 .CompanyName {
@@ -104,4 +105,5 @@ footer {
   margin: 0 auto;
   bottom: 0;
   height: 600px;
+  position: absolute;
 }
