@@ -11,7 +11,8 @@ body {
   background-image: url("outcared_background.jpg");
   background-size: cover;
   /*background-position: right; */
-  background-repeat: repeat; 
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
 }
@@ -90,6 +91,7 @@ input[type="submit"] {
 .Subtext {
   font-size: 12px;
   margin-top: 5;
+  margin-bottom: 5;
   text-align: center;
 }
 
