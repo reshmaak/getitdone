@@ -8,7 +8,7 @@ body {
   font-family: 'Dosis', sans-serif;;
   text-align: center;
   margin: 0 auto;
-  background-image: url("outcared_background.jpg");
+  background-image: url("background.png");
   background-size: cover;
   /*background-position: right; */
   background-repeat: repeat-x;
