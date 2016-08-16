@@ -23,6 +23,7 @@ div {
   background-size: cover; */
   background-repeat: repeat-x;
   height: 320px;
+  margin: 0 auto;
 }
 
 @media (max-width: 500px) {
