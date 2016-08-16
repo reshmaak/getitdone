@@ -1,3 +1,14 @@
+html {
+    background-image: url("background.png");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -opera-background-size: cover;
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+
+}
 
 body {
 
@@ -9,14 +20,6 @@ body {
   padding: 0 0 0 0;
   text-align: center;
   margin: 0 0 0 0;
-  background-image: url("background.png");
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -opera-background-size: cover;
-  background-repeat: repeat-x;
-  background-repeat: repeat-y;
-  background-attachment: fixed;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
   width: 100%;
