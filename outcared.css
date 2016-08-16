@@ -29,7 +29,8 @@ div {
   bottom: 0;
   right: 0;
   left: 0;
-  height: 300px;
+  height: 250px;
+  width: 100%;
 }
 
 @media (max-width: 500px) {
