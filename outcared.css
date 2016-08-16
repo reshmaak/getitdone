@@ -1,18 +1,18 @@
 
 body {
-  background-color: rgba(13,183,196,1); /* graceful degradation for iE */
-  /*
+
+/*  
   background: radial-gradient(center,rgba(13,183,196,1), rgba(13,183,196,0.65)); future proof
   background: -webkit-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));
   background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  */
   font-family: 'Dosis', sans-serif;;
   text-align: center;
   margin: 0 auto;
-  /*background-image: url("outcared.jpg");
+  background-image: url("outcared_background.jpg");
   background-size: cover;
-  background-position: right; 
-  background-repeat: no-repeat; 
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
+  /*background-position: right; */
+  background-repeat: repeat; 
+  /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
 }
 
@@ -42,6 +42,7 @@ body {
 }
 
 section {
+  background-color: rgba(13,183,196,1); /* graceful degradation for iE */
   margin: 50px auto;
   max-width: 500px;
   padding: 20px 10px 20px 10px; 
