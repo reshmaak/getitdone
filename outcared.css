@@ -21,10 +21,9 @@ body {
   font-family: 'Dosis', sans-serif;;
   padding: 0 0 0 0;
   text-align: center;
-  margin: 0 0 0 0;
+  margin: 0 auto;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
-  height: 100%;
-  width: 100%;
+  display: float;
 }
 
 @media (max-width: 500px) {
