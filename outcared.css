@@ -104,6 +104,5 @@ footer {
   -o-background-repeat: repeat-y; */
   margin: 0 auto;
   bottom: 0;
-  height: 400px;
-  position: fixed;
+  height: 500px;
 }
