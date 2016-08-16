@@ -16,6 +16,7 @@ body {
   background-attachment: fixed;
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
   height: 100%;
+  width: 100%;
 }
 
 @media (max-width: 500px) {
