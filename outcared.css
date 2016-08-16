@@ -13,6 +13,7 @@ body {
   background-position: right; 
   background-repeat: no-repeat; 
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
+  padding-bottom: 600px;
 }
 
 @media (max-width: 500px) {
