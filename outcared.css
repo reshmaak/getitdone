@@ -6,6 +6,7 @@ body {
   background: -webkit-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));
   background: -moz-radial-gradient(center, rgba(13,183,196,1), rgba(13,183,196,0.65));  */
   font-family: 'Dosis', sans-serif;;
+  padding: 0;
   text-align: center;
   margin: 0 auto;
   background-image: url("background.png");
